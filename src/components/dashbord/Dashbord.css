@@ -1,0 +1,38 @@
+
+.earnings {
+    width: 50% aria-valuenow="50" aria-valuemin="0" aria-valuemax="100";
+}
+
+.projectCard {
+    width: 20% aria-valuenow="20" aria-valuemin="0" aria-valuemax="100";
+}
+
+.projectCardProgress {
+    width: 40% aria-valuenow="40" aria-valuemin="0" aria-valuemax="100";
+}
+
+.projectCardProgressbar {
+    width: 60%  aria-valuenow="60" aria-valuemin="0" aria-valuemax="100";
+}
+
+.progressInfo {
+    width: 80% aria-valuenow="80" aria-valuemin="0" aria-valuemax="100";
+}
+
+.progressSuccess {
+    width: 100% aria-valuenow="100" aria-valuemin="0" aria-valuemax="100";
+}
+
+.IllustrationsCard {
+    width: 25rem;
+}
+
+.toggled {
+    overflow: visible;
+    width: 6.5rem !important;
+}
+
+.toggledMenu {
+    width: 0 !important;
+    overflow: hidden;  
+}
